@@ -7,7 +7,7 @@ A hacker team named **Crimson Sparrow** was detected performing suspicious activ
 **🗂 Provided File:** `Network_Challenge.pcapng`
 
 ## 🎯 Your Mission
-Open the PCAP in **Wireshark** (or any tool of your choice) and answer the following five questions.
+Open the PCAP in **Wireshark** and answer the following five questions.
 
 ## ❓ Challenge Questions
 1. What is the Fully Qualified Domain Name (FQDN) of the game server?
