@@ -14,6 +14,6 @@ Open the PCAP in **Wireshark** and answer the following five questions.
 2. How many unique players were connected to the server?
 3. What port number was the server using to host the match?
 4. What is the filename of the game asset that the client tried to download immediately after the login attempt?
-5. What is the decoded message (the flag) from the Base64 string found in the chat traffic?
+5. What is the decoded message (the flag) from the Base64 string found in the chat traffic? **Submit your answer starting with `flag{`**
 
 
